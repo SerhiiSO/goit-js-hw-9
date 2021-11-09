@@ -25,6 +25,3 @@ function onStopBtnClick() {
     colorType.startBtn.removeAttribute('disabled');
     colorType.stopBtn.setAttribute('disabled', true);
 };
-
-
-
